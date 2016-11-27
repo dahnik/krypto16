@@ -1,0 +1,11 @@
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/repository/RoleRepository.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/model/Role.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/service/UserServiceImpl.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/web/UserController.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/service/SecurityServiceImpl.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/model/User.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/service/UserDetailsServiceImpl.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/service/SecurityService.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/service/UserService.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/validator/UserValidator.java
+/home/matt/Dokumenty/registration-login-spring-xml-maven-jsp-mysql/src/main/java/com/hellokoding/account/repository/UserRepository.java
